@@ -1,0 +1,33 @@
+PING 192.168.1.10 (192.168.1.10) 56(84) bytes of data.
+64 bytes from 192.168.1.10: icmp_seq=1 ttl=64 time=0.838 ms
+64 bytes from 192.168.1.10: icmp_seq=2 ttl=64 time=0.854 ms
+64 bytes from 192.168.1.10: icmp_seq=3 ttl=64 time=1.34 ms
+64 bytes from 192.168.1.10: icmp_seq=4 ttl=64 time=0.824 ms
+64 bytes from 192.168.1.10: icmp_seq=5 ttl=64 time=0.874 ms
+64 bytes from 192.168.1.10: icmp_seq=6 ttl=64 time=1.21 ms
+64 bytes from 192.168.1.10: icmp_seq=7 ttl=64 time=1.40 ms
+64 bytes from 192.168.1.10: icmp_seq=8 ttl=64 time=1.32 ms
+64 bytes from 192.168.1.10: icmp_seq=9 ttl=64 time=0.885 ms
+64 bytes from 192.168.1.10: icmp_seq=10 ttl=64 time=1.11 ms
+
+--- 192.168.1.10 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9112ms
+rtt min/avg/max/mdev = 0.824/1.064/1.396/0.222 ms
+[0m[1;37m         _,met$$$$$gg.          [0m[1;31m jose[0m[1m@[0m[0m[1;31mdebian[0m
+[0m[1;37m      ,g$$$$$$$$$$$$$$$P.       [0m[1;31m OS:[0m Debian 12 bookworm[0m
+[0m[1;37m    ,g$$P""       """Y$$.".     [0m[1;31m Kernel:[0m x86_64 Linux 6.1.0-31-amd64[0m
+[0m[1;37m   ,$$P'              `$$$.     [0m[1;31m Uptime:[0m 5h 57m[0m
+[0m[1;37m  ',$$P       ,ggs.     `$$b:   [0m[1;31m Packages:[0m 1820[0m
+[0m[1;37m  `d$$'     ,$P"'   [0m[1;31m.[0m[1;37m    $$$    [0m[1;31m Shell:[0m bash[0m
+[0m[1;37m   $$P      d$'     [0m[1;31m,[0m[1;37m    $$P    [0m[1;31m Resolution:[0m 3286x1080[0m
+[0m[1;37m   $$:      $$.   [0m[1;31m-[0m[1;37m    ,d$$'    [0m[1;31m DE:[0m GNOME 43.6[0m
+[0m[1;37m   $$\;      Y$b._   _,d$P'     [0m[1;31m WM:[0m Mutter[0m
+[0m[1;37m   Y$$.    [0m[1;31m`.[0m[1;37m`"Y$$$$P"'         [0m[1;31m WM Theme:[0m Nordic-darker-v40[0m
+[0m[1;37m   `$$b      [0m[1;31m"-.__              [0m[1;31m GTK Theme:[0m Nordic-darker-v40 [GTK2/3][0m
+[0m[1;37m    `Y$$                        [0m[1;31m Icon Theme:[0m gnome[0m
+[0m[1;37m     `Y$$.                      [0m[1;31m Font:[0m Cantarell 11[0m
+[0m[1;37m       `$$b.                    [0m[1;31m Disk:[0m 25G / 475G (6%)[0m
+[0m[1;37m         `Y$$b.                 [0m[1;31m CPU:[0m AMD Ryzen 3 3200G with Radeon Vega Graphics @ 4x 3,848GHz[0m
+[0m[1;37m            `"Y$b._             [0m[1;31m GPU:[0m AMD/ATI Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series][0m
+[0m[1;37m                `""""           [0m[1;31m RAM:[0m 2471MiB / 13917MiB[0m
+[0m[1;37m                                [0m
